@@ -24,3 +24,12 @@ The script also optionally takes 2 more flags:
 ```
 
 Use `python twitter_crawler.py --help` for help with the flags.
+
+
+## How to create a Twitter app
+
+* Go to this [link](https://apps.twitter.com/) and click on `Create New App`.
+* Fill in the Application.
+* Twitter will then generate a consumer key and a consumer key secret for you app.
+* Click on `Manage Keys and Access Tokens` and generate an access token and an access token secret.
+* You can then use these keys to run the twitter crawler script.
